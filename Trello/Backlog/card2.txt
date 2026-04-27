@@ -1,0 +1,3 @@
+Card Serial: 02
+Card Title: login for Students
+Description: as a student registration feature where students can enter their name, email, student ID, department, password, and submit their registration details.so that they can use the features
