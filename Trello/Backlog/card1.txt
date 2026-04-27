@@ -1,0 +1,4 @@
+Card Serial: 01
+Card Title: Write your card title here
+Card Title: Registration for Students
+Description: Create a student registration feature where students can enter their personal information, create an account, and submit their registration details.
